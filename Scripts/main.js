@@ -48,7 +48,7 @@ const typed = new Typed(".multiple-text", {
   strings: [
     "Backend Developer",
     "Machine Learning Developer",
-    "UI/UX Designer",
+    "Discord Bot Developer",
   ],
   typeSpeed: 70,
   backSpeed: 70,
